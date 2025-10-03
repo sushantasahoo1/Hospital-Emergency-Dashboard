@@ -1,2 +1,4 @@
-# Hospital-Emergency-Dashboard
-I developed a comprehension project in Excel, creating a dashboard and tables to analyze the data.This process involved several stages, including data processing, data cleaning, and data visulization.
+# Hospital-Emergency-Data-analysis(Interactive Dashboard Cration using MS-Excel) 
+# # Projects Purpose:
+We need to create a Hospital Emergency Room analysis Dashboard in Excel to imporove Effiency and provides useful insights.This Dashboard  will help stackholders mointers, analyze and make better decisions for managing patients and imporving services. 
+
